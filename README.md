@@ -1,4 +1,4 @@
 # Coding Notes
 
-Materials from my "learn how to code" journey.
+Materials from my "learn how to code" journey...
 
